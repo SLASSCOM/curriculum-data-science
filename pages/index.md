@@ -4,6 +4,9 @@ title: Reference Curriculum - Data Science
 permalink: /
 ---
 
-# Welcome to the main page
+# Reference Curriculum for Data Science Undergraduate Programs
  
  This is a sample description.
+
+ <br/>
+[<button class="btn btn-primary">Go to Curriculum</button>](docs/curriculum)
