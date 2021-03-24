@@ -6,3 +6,5 @@
       children:
         - title: Objectives
           url: "docs/introduction#objectives"
+    - title: "Course Curriculum"
+      url: "docs/curriculum"
