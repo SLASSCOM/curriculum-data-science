@@ -2,18 +2,21 @@
 layout: page
 title: Documentation
 permalink: /docs/
+title: Introduction
+description: A brief introduction to the curriculum
 ---
 
-# Documentation
+# Introduction
 
-Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
-particular page.
+## Curriculum Overview
 
-<div class="section-index">
-    <hr class="panel-line">
-    {% for post in site.docs  %}        
-    <div class="entry">
-    <h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
-    <p>{{ post.description }}</p>
-    </div>{% endfor %}
-</div>
+This curriculum combines two prominent areas of modern computing namely, Artifical Intelligence and Data Science. Artifical Intelligence is more focused on Algorithmic techniques and Data Science is more weighted to statistical analysis.
+
+## Objectives
+
+- Specify the objectives here.
+- Specify the objectives here.
+- Specify the objectives here.
+
+<br/>
+[<button class="btn btn-primary">Course Curriculum</button>](curriculum)
